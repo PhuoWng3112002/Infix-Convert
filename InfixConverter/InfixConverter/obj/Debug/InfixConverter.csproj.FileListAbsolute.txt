@@ -1,0 +1,11 @@
+G:\CĐN\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe.config
+G:\CĐN\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe
+G:\CĐN\InfixConverter\InfixConverter\bin\Debug\InfixConverter.pdb
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.AssemblyReference.cache
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.Properties.Resources.resources
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.GenerateResource.cache
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CoreCompileInputs.cache
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.exe
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.pdb
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.Form1.resources
+G:\CĐN\InfixConverter\InfixConverter\obj\Debug\InfixConverter.PanelTree.resources
